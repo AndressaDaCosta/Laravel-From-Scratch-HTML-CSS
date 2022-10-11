@@ -2,4 +2,4 @@
 
 ## Laravel Blog from Scratch
 
-![design](./screenshot.png)
+![design](./images/screenshot.png)
